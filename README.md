@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RacerChen
 - 👀 I’m interested in digital products.
-- 🌱 I’m currently SDE@Meituan
+- 🌱 I’m currently SDE
 - 📫 How to reach me george_chenjiajie@qq.com
 
 <!---
